@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR5a0064/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5a0064/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 玉清無上內景真經
+  date: '2015-08-28 23:35:33.147572'
+  source:
+    repository: kanripo
+    path: KR5a0064
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0064_000-HFL.yaml, hash: 'sha256:6e2aa73d2f903e92dd7e3c1ba3d7d9307534ef151731f5442e560493d4abc2d6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0064_000-HFL.markers.yaml, hash: 'sha256:767e43936d7cb75bb32302535958f378307b8b11914f95b49d27f5f621de6e17'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0064_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 587
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:db028e655b0d5a3af4419f7e97eb3ca32aac4d8916de559cb6f6df3d4867236d

@@ -1,0 +1,25 @@
+canonical_identifier: bkk:krp/KR5a0064/krp/v1/juan/0
+seq: 0
+front:
+  text: 玉清無上內景真經
+  hash: sha256:cda24fd4bef052e2d8d5e2852b34340bf5d68c4fe03fc7fd4a68360fdefbea91
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5a0064_HFL_000-001a, image: hfl/0032/0032-040.png}
+body:
+  text: 大羅真天元天大聖后紫光天母下傳爾時元始至真大聖化生開天以其大神通力大智慧力結造世界配合隂陽主張造化先於大梵真天玄空之中化諸外象以表內景而分九氣為東方木精之色結化九氣丈人而君主之在人為肝為魂次分七氣為西方金精之色結化七氣丈人而君主之在人為肺為魄次分三氣為南方火精之色結化三氣丈人而君主之在人為心為神次分五氣為北方坎精之色結化五氣丈人而君主之在人為腎為精四方餘氣水火金木分布中央為黃庭之色結化一氣丈人而君主之在人為脾為思五臟含識共具十真十真之英能成九轉聚為丹藥散為甘露周旋上下煉養百骸沐濁留清消隂鑄陽復我太初保我大全出于崑崙入于太淵引其龍變經於虎城四氣和合成我至真衰殘易盛耄耋還嬰朽容再鮮白髮重青韻如鍾發身如羽輕盡更凡骨飛升上清世之學士立戒持定而生智明以其三力永保億年履輕清之氣運定變化以超仙也左右二玄無極真宰以我此道廣布天人使其捨離無常之業而入真一之妙非老非死湛寂常存元始真尊於其七竅放大光明照無量土萬二千天百億人界各以自力散香雨華而為貢奉莫不欣恱咸悟本心爾時玉清化宮於空玄中忽見寶月光明照映內外十虛寶月之中包含紫氣之內有一嬰兒坐寶華臺口放金光發大玉音而說偈曰一心生正定葛象自然陳逐方分五氣五氣孕一靈一靈通變化結煉本來真本真非有相非有亦非無兆能通此理方悟攝塵珠玄空之中月光之內玉嬰演教天上天下一時皆聞莫不慧海湛然業山摧毀反觀內照永契道真仰望聖光拜禮而去敬信奉持玉清無上內景真經
+  hash: sha256:5b62ecd044104600abd3823ce331389f9fb5c2fb559c80435c3a8785780774ab
+metadata:
+  title: 玉清無上內景真經
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-28 23:35:33.147572'
+  source:
+    repository: kanripo
+    path: KR5a0064/KR5a0064_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+hash: sha256:8970ec9c3fda351fc0a773eae66df32ec140fdae54ec9c9d837bd9e4d802dab5
